@@ -1,3 +1,1 @@
-otpauth://totp/smoc.genomics.cn:dingqi1?secret=U6GOL2M6H7LSU4ZG&issuer=smoc.genomics.cn
-otpauth://totp/Sage%20Bionetworks:dingqicnmcnm%40gmail.com?secret=LS3C4C7D3HZ63Y53RSL5HF7HMGBLWOBY&issuer=Sage%20Bionetworks
-otpauth://totp/(:ined%2Fdingqi1%40genomics.cn?secret=THMLAS2UBJPIZTD2FJ4PL2QRM4&issuer=(
+
